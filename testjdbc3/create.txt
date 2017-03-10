@@ -1,0 +1,1 @@
+archetype:generate -DgroupId=test.jdbc -DartifactId=testjdbc3 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false -DarchetypeCatalog=internal

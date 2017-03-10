@@ -1,0 +1,7 @@
+userinfo\entity\IdEntity.class
+userinfo\dao\userinfoDao.class
+userinfo\servlet\DownServlet.class
+userinfo\services\userinfoServices.class
+userinfo\entity\userinfoentity.class
+userinfo\util\ConnectionFactory.class
+userinfo\servlet\UserinfoServlet.class
