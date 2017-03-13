@@ -1,0 +1,1 @@
+archetype:generate -DgroupId=jdbc2.java -DartifactId=testjdbc2 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false -DarchetypeCatalog=internal
